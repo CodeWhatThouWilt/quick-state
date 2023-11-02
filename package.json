@@ -1,5 +1,5 @@
 {
-    "name": "quick-state",
+    "name": "quick-states",
     "version": "1.0.0",
     "description": "Package for quickly setting up a state with redux. Reduces overall store code and eliminates having to setup a reducer.",
     "main": "src/index.js",
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/CodeWhatThouWilt/quick-state.git"
+        "url": "git+https://github.com/CodeWhatThouWilt/quick-states.git"
     },
     "keywords": [
         "redux",
@@ -30,7 +30,7 @@
     "author": ",",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/CodeWhatThouWilt/quick-state/issues"
+        "url": "https://github.com/CodeWhatThouWilt/quick-states/issues"
     },
-    "homepage": "https://github.com/CodeWhatThouWilt/quick-state#readme"
+    "homepage": "https://github.com/CodeWhatThouWilt/quick-states#readme"
 }
