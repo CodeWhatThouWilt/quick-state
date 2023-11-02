@@ -1,0 +1,35 @@
+{
+    "name": "quick-state",
+    "version": "1.0.0",
+    "description": "Package for quickly setting up a state with redux. Reduces overall store code and eliminates having to setup a reducer.",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CodeWhatThouWilt/quick-state.git"
+    },
+    "keywords": [
+        "redux",
+        "state management",
+        "state",
+        "flux",
+        "react",
+        "react-redux",
+        "middleware",
+        "store",
+        "actions",
+        "reducers",
+        "immutable",
+        "immutable.js",
+        "redux middleware",
+        "react state management"
+    ],
+    "author": ",",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/CodeWhatThouWilt/quick-state/issues"
+    },
+    "homepage": "https://github.com/CodeWhatThouWilt/quick-state#readme"
+}
