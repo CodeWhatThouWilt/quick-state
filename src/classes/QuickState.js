@@ -33,10 +33,9 @@ class QuickState {
          * payload - the payload to be sent in the body (should also be included in callback param)
          * actionArgs - optional. Used if you do not want the response body fed directly into the action
          */
-        return (payloadForCb, ...params) =>
+        return (...params) =>
             async (dispatch) => {
                 const { method, action, payload, url, actionArgs } = cb(
-                    payloadForCb,
                     ...params
                 );
 
